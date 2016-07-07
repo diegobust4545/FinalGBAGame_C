@@ -1,0 +1,6 @@
+**** GBA Write up ****
+1. Koopa1 will automatically start running in place
+2. Koopa2 will automatically start running to the left
+3. If koop1 & koopa2 collide then the game will reset
+4. The only button functionality is the up arrow key which will allow Koopa1 to jump
+5. Be warned... with each jump the scroll and koopa 2 will increase in speed
